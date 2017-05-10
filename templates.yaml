@@ -1,0 +1,12 @@
+welcome: Welcome to Fun Finder! I'm going to help you to have a wonderful day! Tell me what to do.
+prompt_for_movies: Here are the {{ activityName }} near you. Guarians of the Galaxy at 34 Lowes AMC. The Boss Baby at 16 street. Which one would you like to see?
+prompt_for_parks: Here are the {{ activityName }} near you. Washington Square Park in Greenwich Village, Central park, and bryant park between 40 and 42 street.
+prompt_for_activities: What would you like to do? We have movies, music, outside activities.
+prompt_for_restaurant: Here are the {{ activityName }} near you. Dallas BBQ, Bareburger and Gemma which are highly recommended. Which one would you like to go?
+prompt_for_place: Nice choice! How would you like to get there? Bus? Taxi? Subway? or Walk?
+prompt_for_taxi: Okay, I have booked a taxi for you, I will remind you when the taxi is here.
+prompt_for_bus: Sure! You need to take bus number 273 from cornell tech to Central park.
+prompt_for_subway: Subway! Great Choice. Go to 14th street subway station and take the A, C, E train uptown and get off at Central park.
+prompt_for_walk: Oh, it's a little bit too far, maybe another transportation mode would be better. How would you like to get there?
+prompt_for_movie: For {{movie}}, it is at 2 pm, 4 pm and 6 pm. Which one do you want?
+prompt_for_time: Okay, I've added it on your calender, and I will remind you 30 minutes before the movie. How would you like to get there?'

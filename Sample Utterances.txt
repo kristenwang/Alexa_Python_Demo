@@ -1,0 +1,9 @@
+FindMeAnActivity find me something to do
+SelectActivityIntent find me {activityName}
+SelectActivityIntent {activityName}
+PlaceIntent I want to go to {place}
+MovieIntent I want to see {movies} of the galaxy
+MovieIntent {movies} of the galaxy
+TransportationIntent I want to go by {transportation}
+TimeIntent I want {times} pm
+TimeIntent {times} pm

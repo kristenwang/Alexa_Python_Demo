@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "hello"
+    },
+    {
+      "intent": "FindMeAnActivity"
+    },
+    {
+      "slots": [
+        {
+          "name": "activityName",
+          "type": "LIST_OF_NAMES"
+        }
+      ],
+      "intent": "SelectActivityIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "place",
+          "type": "LIST_OF_PLACES"
+        }
+      ],
+      "intent": "PlaceIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "transportation",
+          "type": "LIST_OF_TRANS"
+        }
+      ],
+      "intent": "TransportationIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "movies",
+          "type": "LIST_OF_MOVIES"
+        }
+      ],
+      "intent": "MovieIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "times",
+          "type": "LIST_OF_TIMES"
+        }
+      ],
+      "intent": "TimeIntent"
+    }
+  ]
+}

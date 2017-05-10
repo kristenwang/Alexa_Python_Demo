@@ -1,0 +1,6 @@
+Type	Values	
+LIST_OF_NAMES	movies | park | theater | festival | music | restaurant
+LIST_OF_PLACES	Washington Square Park | Central Park
+LIST_OF_TRANS	bus | subway | walk | taxi
+LIST_OF_MOVIES	guarians | the boss baby
+LIST_OF_TIMES	two | four | six
